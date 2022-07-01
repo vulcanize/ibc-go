@@ -299,6 +299,7 @@ github.com/cosmos/cosmos-proto v1.0.0-alpha7 h1:yqYUOHF2jopwZh4dVQp3xgqwftE5/2hk
 github.com/cosmos/cosmos-proto v1.0.0-alpha7/go.mod h1:dosO4pSAbJF8zWCzCoTWP7nNsjcvSUBQmniFxDg5daw=
 github.com/cosmos/cosmos-sdk v0.46.0-rc1 h1:5AxZj0RlhV9uIdbHvOVQZ9nQ4xWSs1UsIog/I60vYh0=
 github.com/cosmos/cosmos-sdk v0.46.0-rc1/go.mod h1:x+vWHxKIXItFjtZJAsRYF8YmoFaH8+3+rvQSVuerkjg=
+github.com/cosmos/cosmos-sdk/db v1.0.0-beta.1 h1:6YvzjQtc+cDwCe9XwYPPa8zFCxNG79N7vmCjpK+vGOg=
 github.com/cosmos/cosmos-sdk/db v1.0.0-beta.1/go.mod h1:JUMM2MxF9wuwzRWZJjb8BjXsn1BmPmdBd3a75pIct4I=
 github.com/cosmos/go-bip39 v1.0.0 h1:pcomnQdrdH22njcAatO0yWojsUnCO3y2tNoV1cb6hHY=
 github.com/cosmos/go-bip39 v1.0.0/go.mod h1:RNJv0H/pOIVgxw6KS7QeX2a0Uo0aKUlfhZ4xuwvCdJw=
@@ -861,6 +862,7 @@ github.com/kylelemons/godebug v1.1.0/go.mod h1:9/0rRGxNHcop5bhtWyNeEfOS8JIWk580+
 github.com/kyoh86/exportloopref v0.1.8/go.mod h1:1tUcJeiioIs7VWe5gcOObrux3lb66+sBqGZrRkMwPgg=
 github.com/labstack/echo/v4 v4.2.1/go.mod h1:AA49e0DZ8kk5jTOOCKNuPR6oTnBS0dYiM4FW1e6jwpg=
 github.com/labstack/gommon v0.3.0/go.mod h1:MULnywXg0yavhxWKc+lOruYdAhDwPK9wf0OL7NoOu+k=
+github.com/lazyledger/smt v0.2.1-0.20210709230900-03ea40719554 h1:nDOkLO7klmnEw1s4AyKt1Arvpgyh33uj1JmkYlJaDsk=
 github.com/lazyledger/smt v0.2.1-0.20210709230900-03ea40719554/go.mod h1:9+Pb2/tg1PvEgW7aFx4bFhDE4bvbI03zuJ8kb7nJ9Jc=
 github.com/ldez/gomoddirectives v0.2.2/go.mod h1:cpgBogWITnCfRq2qGoDkKMEVSaarhdBr6g8G04uz6d0=
 github.com/ldez/tagliatelle v0.3.1/go.mod h1:8s6WJQwEYHbKZDsp/LjArytKOG8qaMrKQQ3mFukHs88=
@@ -1374,6 +1376,8 @@ github.com/yuin/goldmark v1.4.1/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1
 github.com/yusufpapurcu/wmi v1.2.2/go.mod h1:SBZ9tNy3G9/m5Oi98Zks0QjeHVDvuK0qfxQmPyzfmi0=
 github.com/zondax/hid v0.9.0 h1:eiT3P6vNxAEVxXMw66eZUAAnU2zD33JBkfG/EnfAKl8=
 github.com/zondax/hid v0.9.0/go.mod h1:l5wttcP0jwtdLjqjMMWFVEE7d1zO0jvSPA9OPZxWpEM=
+github.com/zondax/hid v0.9.1-0.20220302062450-5552068d2266 h1:O9XLFXGkVswDFmH9LaYpqu+r/AAFWqr0DL6V00KEVFg=
+github.com/zondax/hid v0.9.1-0.20220302062450-5552068d2266/go.mod h1:l5wttcP0jwtdLjqjMMWFVEE7d1zO0jvSPA9OPZxWpEM=
 gitlab.com/bosi/decorder v0.2.1/go.mod h1:6C/nhLSbF6qZbYD8bRmISBwc6vcWdNsiIBkRvjJFrH0=
 go.etcd.io/bbolt v1.3.2/go.mod h1:IbVyRI1SCnLcuJnV2u8VeU0CEYM7e686BmAb1XKL+uU=
 go.etcd.io/bbolt v1.3.3/go.mod h1:IbVyRI1SCnLcuJnV2u8VeU0CEYM7e686BmAb1XKL+uU=
